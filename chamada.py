@@ -1,5 +1,5 @@
 from programa_lexico import AnalisadorLexico
 
-l = AnalisadorLexico()
+lexico = AnalisadorLexico()
 entrada = input("entrada:")
-print(l.averiguar(entrada))
+print(lexico.averiguar(entrada))
